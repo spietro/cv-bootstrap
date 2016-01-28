@@ -1,0 +1,46 @@
+font-face {
+   font-family: "Prata";
+   src: url("Prata-Regular.ttf");
+}
+
+body{
+  background: #20B2AA;
+  padding: 1%;
+}
+
+#sidebar{
+  background: rgba(141, 127, 127, 0.5);
+  box-shadow: 0 2px 10px 0 white, 0 2px 10px 0 white;
+}
+
+#sidebar p {
+  font-size: 16px;
+  color: white
+}
+
+#content{
+  background: rgba(28, 27, 27, 0.7);
+  box-shadow: 0 2px 10px 0 white, 0 2px 10px 0 white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+#content p {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+
+a {
+font-size:40px;
+margin-left: 70px;
+}
+
+p.text-capitalize{
+  color: #333 !important;
+  font-size: 27px !important;
+  text-align: center !important;
+}
